@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+* {
+    box-sizing: border-box;
+}
+
+body{
+
+    background: url("background.png") no-repeat fixed top right;
+    background-size: cover;
+    background-color: skyblue;
+
+}
+header > h1{
+    text-align: center;
+    color:black;
+}
+#container{width: 900px;
+    margin:0 auto;}
+
+nav li {
+    float: right;
+}
+
+nav li a {
+    display: block;
+    color: #0004ad;
+    padding: 0px 20px;
+    text-decoration-line: underline;
+}
+
+nav li a:hover {background-color: #0004ad;}
+
+
+ul{
+    color: blue;
+    
+}
+
+input{
+    color: black;
+    background-color: cyan;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+label {
+    color: #0004ad;
+}
