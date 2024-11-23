@@ -15,6 +15,7 @@ header > h1{
     text-align: center;
     color:black;
 }
+
 #container{width: 900px;
     margin:0 auto;}
 
@@ -41,8 +42,4 @@ input{
     color: black;
     background-color: cyan;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-
-label {
-    color: #0004ad;
 }
